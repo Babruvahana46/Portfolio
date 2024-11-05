@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Supplier Diversity Management System (SDMS)",
+    "desc": "This project was developed using .NET Core, C#, HTML5, CSS3, jQuery, Bootstrap, and MS SQL.",
+    "image": "DMS",
+    "category": ".net",
+    "links": {
+      "view": "http://sdms.coolsofttech.com"
+    }
+  },
+  {
+    "name": "Ganga Kalyana Application",
+    "desc": "A government initiative designed to provide borewells to economically disadvantaged members of the Backward Class community. ",
+    "image": "GangaKalyan",
+    "category": ".net",
+    "links": {
+      "view": "https://gangakalyanabcwd.karnataka.gov.in"
+    }
+  },
+  {
+    "name": "Health and Nutrition Survey Application",
+    "desc": "A comprehensive survey platform aimed at collecting health and nutrition data from 6.6 crore citizens in Karnataka. ",
+    "image": "HNS",
+    "category": "android",
+    "links": {
+      "view": "http://hns.karnataka.gov.in"
+    }
+  },
+  {
+    "name": "Karmani Web Application",
+    "desc": "A specialized platform for collecting and managing data on transgender individuals in Karnataka. ",
+    "image": "Karmani",
+    "category": "react",
+    "links": {
+      "view": "https://karmanikswdc.karnataka.gov.in/Login"
+    }
+  },
+  {
+    "name": "BOCW_CESS Web Application",
+    "desc": "A dedicated platform for managing welfare programs specifically for construction workers in Karnataka.",
+    "image": "BOCW",
+    "category": "react",
+    "links": {
+      "view": "http://bocwcess.uat.epicminds.ap.ngrok.io"
+    }
+  },
+  {
+    "name": "Project Oversight Application",
+    "desc": "A robust tool designed for managing project schedules, tasks, and assets. ",
+    "image": "POS",
+    "category": "react",
+    "links": {
+      "view": "https://posuat.epicmindsitapi.in/Login"
+    }
+  },
+  {
+    "name": "Asset Management System Mobile Application",
+    "desc": "A mobile application designed for efficient asset tracking, management, and maintenance. ",
+    "image": "resumegen",
+    "category": "android",
+    "links": {
+      "view": ""
+    }
+  },
+  {
+    "name": "Factory and boiler inspection",
+    "desc": "A web application which helps factory inspector to do inspection and upload reports The inspection was assigned annually.",
+    "image": "FBIS",
+    "category": ".net",
+    "links": {
+      "view": "https://surakshate.karnataka.gov.in:5001/"
+    }
+  },
+  {
+    "name": "E-Commerce Shopping website",
+    "desc": "A shopping user friendly web application designed to users for easy navigation. It includes Filters,Add Cart, View Products with roles such as admin and customer",
+    "image": "reactprojects",
+    "category": "react",
+    "links": {
+      "view": ""
+    }
+  }
+ 
+]
